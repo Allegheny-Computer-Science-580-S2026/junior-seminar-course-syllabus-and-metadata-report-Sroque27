@@ -42,7 +42,7 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Data
 
-- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)](https://github.com/Sroque27/Alluder-Reaseach-Data)
+- **Repository URL**: (https://github.com/Allegheny-Computer-Science-580-S2026/)](https://github.com/Sroque27/Alluder-Reaseach-Data)
 
 ## Research Project Title
 
