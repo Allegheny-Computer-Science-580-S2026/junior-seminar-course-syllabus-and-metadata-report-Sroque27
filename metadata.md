@@ -65,7 +65,7 @@ researchers.
 Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
-- **Researcher Name / Project**: [Keven Duverglas]
+- **Researcher Name / Project**: [Name of peer researcher and their project]
 - **Feedback Provided**: \[Brief description of the feedback, suggestions, or
   questions you contributed\]
 - **Impact**: [If applicable, note how your feedback influenced their work]
