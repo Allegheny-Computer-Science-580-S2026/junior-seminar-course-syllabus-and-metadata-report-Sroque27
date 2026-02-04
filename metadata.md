@@ -21,7 +21,7 @@ A research group member should add an X-mark to the box to indicate that they
 agree to adhere to the Allegheny College Honor Code during the completion of
 their Junior Seminar Research Project.
 
-- [ ] I agree to adhere to the Allegheny College Honor Code during the
+- [X] I agree to adhere to the Allegheny College Honor Code during the
   completion of my Junior Seminar Research Project.
 
 ## GitHub Username
@@ -65,7 +65,7 @@ researchers.
 Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
-- **Researcher Name / Project**: [Name of peer researcher and their project]
+- **Researcher Name / Project**: [Keven Duverglas]
 - **Feedback Provided**: \[Brief description of the feedback, suggestions, or
   questions you contributed\]
 - **Impact**: [If applicable, note how your feedback influenced their work]
