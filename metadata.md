@@ -71,6 +71,11 @@ during presentations, demonstrations, or informal discussions. Include:
 - **Impact**: [If applicable, note how your feedback influenced their work]
 - **Reference**: [Provide a link to a GitHub repository's issue tracker]
 
+- Keven Duverglas, Suzanne
+- Filled out an Issue tracker on their introduction chapter
+- No idea yet
+- https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-KevenDuverglas/issues/8
+
 Example entries:
 
 - **Student Name One / Machine Learning Bias Detection**: Suggested examining
