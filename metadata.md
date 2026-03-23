@@ -76,6 +76,16 @@ during presentations, demonstrations, or informal discussions. Include:
 - No idea yet
 - https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-KevenDuverglas/issues/8
 
+- Benedek Kaibas, An Automated Differential Testing Agent for Python Type Checkers
+- Filled out an issue tracker
+- No idea yet
+- https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-benedekaibas/issues/17
+
+- Benedek Kaibas, An Automated Differential Testing Agent for Python Type Checkers
+- Filled out an Issue tracker on their introduction chapter
+- No idea yet
+- https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-benedekaibas/issues/18
+
 Example entries:
 
 - **Student Name One / Machine Learning Bias Detection**: Suggested examining
