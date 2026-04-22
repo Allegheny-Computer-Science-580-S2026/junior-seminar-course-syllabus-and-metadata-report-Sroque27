@@ -91,6 +91,11 @@ during presentations, demonstrations, or informal discussions. Include:
 - No idea yet
 - https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-TaiHop/issues/12
 
+- Anupraj Guragain, Trustable.
+- Filled out an Issue tracker on their introduction chapter
+- No idea yet
+- https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-AN00P-G/issues/8
+
 Example entries:
 
 - **Student Name One / Machine Learning Bias Detection**: Suggested examining
