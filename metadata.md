@@ -82,19 +82,24 @@ during presentations, demonstrations, or informal discussions. Include:
 - https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-benedekaibas/issues/17
 
 - Benedek Kaibas, An Automated Differential Testing Agent for Python Type Checkers
-- Filled out an Issue tracker on their introduction chapter
+- Filled out an issue tracker on their methods chapter
 - No idea yet
 - https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-benedekaibas/issues/18
 
 - Tai Hopkins, DataSeekr.Ai
-- Filled out an Issue tracker on their introduction chapter
+- Filled out an issue tracker on their introduction chapter
 - No idea yet
 - https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-TaiHop/issues/12
 
-- Anupraj Guragain, Trustable.
-- Filled out an Issue tracker on their introduction chapter
+- Anupraj Guragain, Trustable
+- Filled out an issue tracker on their introduction chapter
 - No idea yet
 - https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-AN00P-G/issues/8
+
+- Veronica Mcneece, HueCloset
+- Filled out an issue tracker on their experiments chapter
+- No idea yet
+- https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-veronica-mcneece/issues/11
 
 Example entries:
 
