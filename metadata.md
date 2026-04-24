@@ -71,30 +71,15 @@ during presentations, demonstrations, or informal discussions. Include:
 - **Impact**: [If applicable, note how your feedback influenced their work]
 - **Reference**: [Provide a link to a GitHub repository's issue tracker]
 
-- Keven Duverglas, Suzanne
-- Filled out an Issue tracker on their introduction chapter
-- No idea yet
-- https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-KevenDuverglas/issues/8
+- **[Keven Duverglas / Suzanne](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-KevenDuverglas/issues/8)**:Filled out an Issue tracker on their introduction chapter; No idea yet
 
-- Benedek Kaibas, An Automated Differential Testing Agent for Python Type Checkers
-- Filled out an issue tracker on their related work chapter
-- No idea yet
-- https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-benedekaibas/issues/17
+- **[Benedek Kaibas, An Automated Differential Testing Agent for Python Type Checkers](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-benedekaibas/issues/17)**:Filled out an issue tracker on their related work chapter;  No idea yet
 
-- Benedek Kaibas, An Automated Differential Testing Agent for Python Type Checkers
-- Filled out an issue tracker on their methods chapter
-- No idea yet
-- https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-benedekaibas/issues/18
+- **[Benedek Kaibas / An Automated Differential Testing Agent for Python Type Checkers](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-benedekaibas/issues/18)**:Filled out an issue tracker on their methods chapter; No idea yet
 
-- Tai Hopkins, DataSeekr.Ai
-- Filled out an issue tracker on their introduction chapter
-- No idea yet
-- https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-TaiHop/issues/12
+- **[Tai Hopkins / DataSeekr.Ai](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-TaiHop/issues/12)**:Filled out an issue tracker on their introduction chapter; No idea yet
 
-- Anupraj Guragain, Trustable
-- Filled out an issue tracker on their introduction chapter
-- No idea yet
-- https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-AN00P-G/issues/8
+- **[Anupraj Guragain / Trustable](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-AN00P-G/issues/8)**: Filled out an issue tracker on their introduction chapter; No idea yet
 
   **[Veronica Mcneece / HueCloset](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-veronica-mcneece/issues/11)**: Filled out an issue tracker on their experiments chapter; No idea yet
 
