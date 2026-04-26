@@ -81,7 +81,7 @@ during presentations, demonstrations, or informal discussions. Include:
 
 - **[Anupraj Guragain / Trustable](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-AN00P-G/issues/8)**: Filled out an issue tracker on their introduction chapter; No idea yet
 
-  **[Veronica Mcneece / HueCloset](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-veronica-mcneece/issues/11)**: Filled out an issue tracker on their experiments chapter; No idea yet
+- **[Veronica Mcneece / HueCloset](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-veronica-mcneece/issues/11)**: Filled out an issue tracker on their experiments chapter; No idea yet
 
 
 Example entries:
