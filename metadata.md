@@ -38,11 +38,11 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [https://github.com/Sroque27/Alluder.git](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [Prototype](https://github.com/Sroque27/Alluder)
 
 ### GitHub Repository for Research Data
 
-- **Repository URL**: (https://github.com/Allegheny-Computer-Science-580-S2026/)](https://github.com/Sroque27/Alluder-Reaseach-Data)
+- **Repository URL**: [Research data](https://github.com/Sroque27/Alluder-Reaseach-Data)
 
 ## Research Project Title
 
