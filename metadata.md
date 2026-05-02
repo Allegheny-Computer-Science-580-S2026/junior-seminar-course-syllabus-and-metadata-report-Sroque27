@@ -38,7 +38,7 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [Prototype](https://github.com/Sroque27/Alluder)
+- **Repository URL**: [Prototype](https://github.com/Sroque27/Alluder-Prime)
 
 ### GitHub Repository for Research Data
 
