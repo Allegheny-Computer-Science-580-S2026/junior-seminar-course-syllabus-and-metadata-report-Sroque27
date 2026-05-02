@@ -79,62 +79,20 @@ researchers.
 Document instances where you participated in collaborative technical
 discussions or helped fellow researchers troubleshoot issues:
 
-- **Discussion Topic / Problem**: [Brief description]
-- **Your Contribution**: [What you shared, suggested, or helped debug]
-- **Outcome**: [How it helped advance the research]
-
 **Junior Seminar Deployment And Release Issues**: Reached out to Professor Luman and Professor Kapfhammer regarding issues with deploying a website and releasing a PDF; In collaboration with Professor Luman, we solved the issue that affected the whole research group by having a pull request being sent out.
-
-Example entries:
-
-- **Docker Containerization Issues**: Shared my Dockerfile configuration and
-  helped three researchers set up their development environments
-- **Statistical Testing Discussion**: Explained paired t-tests vs. Wilcoxon
-  tests; helped multiple researchers choose appropriate tests for their
-  experiments
-- **GitHub Actions Debugging**: Collaborated with two researchers to fix CI/CD
-  pipeline failures; documented solution in group Slack channel
 
 ### Research Group Meeting Participation
 
 Note particularly meaningful contributions during research group meetings:
 
-- **Meeting Date / Topic**: [When and what]
-- **Contribution**: [Question asked, insight shared, or resource provided]
-- **Value to Group**: [How it benefited the research community]
-
-
-
-Example entries:
-
-- **Week 4 / Research Ethics Discussion**: Raised important questions about
-  data privacy in web scraping projects; led to productive discussion about
-  `robots.txt` and ethical boundaries
-- **Week 9 / Writing Workshop**: Shared effective strategies for writing
-  related work sections; multiple researchers found it helpful because it
-  clarified the way they should structure the second chapter of their report
-- **Week 11 / Results Visualization**: Demonstrated `matplotlib` customization
-  techniques; several researchers adopted similar approaches
+**Week 1 / Project Brainstorming**: Discussed with Prof. JJ what I wanted to do the for my junior seminar prototype. Talked about lighting visualization idea but idea was too complicated and involved fields where I might not get much help in.
 
 ### Research Resources Shared
 
 Document any research papers, tools, tutorials, or other resources you shared
 with the research group that helped advance collective knowledge:
 
-- **Resource**: [Paper title, tool name, tutorial link, etc.]
-- **Shared With**: [Individual researcher or entire group]
-- **Purpose**: [Why you shared it and how it was relevant]
-
 **"[Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)**: Shared with Hannah on April 23rd; after discussing citations with Professor Kapfhammer, he suggested I share this paper with Hannah as it is relevant to her topic of research.
-
-Example entries:
-
-- **"Testing in Production" Paper**: Shared with entire group during Week 7;
-  relevant for multiple systems research projects
-- **Plotly Visualization Tutorial**: Shared with four researchers working on
-  data-heavy projects; enabled interactive visualizations
-- **arXiv Paper on Neural Architecture Search**: Shared with Sarah Lee for her
-  AutoML project; became a key reference in her related work chapter
 
 ## Additional Project Information
 
