@@ -62,15 +62,6 @@ researchers.
 
 ### Peer Research Feedback
 
-Document significant feedback you provided to other research group members
-during presentations, demonstrations, or informal discussions. Include:
-
-- **Researcher Name / Project**: [Name of peer researcher and their project]
-- **Feedback Provided**: \[Brief description of the feedback, suggestions, or
-  questions you contributed\]
-- **Impact**: [If applicable, note how your feedback influenced their work]
-- **Reference**: [Provide a link to a GitHub repository's issue tracker]
-
 - **[Keven Duverglas / Suzanne](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-KevenDuverglas/issues/8)**:Filled out an Issue tracker on their introduction chapter; No idea yet
 
 - **[Benedek Kaibas, An Automated Differential Testing Agent for Python Type Checkers](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-benedekaibas/issues/17)**:Filled out an issue tracker on their related work chapter;  No idea yet
@@ -82,18 +73,6 @@ during presentations, demonstrations, or informal discussions. Include:
 - **[Anupraj Guragain / Trustable](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-AN00P-G/issues/8)**: Filled out an issue tracker on their introduction chapter; No idea yet
 
 - **[Veronica Mcneece / HueCloset](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-veronica-mcneece/issues/11)**: Filled out an issue tracker on their experiments chapter; No idea yet
-
-
-Example entries:
-
-- **Student Name One / Machine Learning Bias Detection**: Suggested examining
-  fairness metrics beyond accuracy; Jane incorporated demographic parity analysis
-  into her evaluation framework
-- **Student Name Two / Distributed Caching System**: Asked about handling
-  network partitions during demo; led to important discussion about consistency
-  models
-- **Student Name Three / Graph Algorithm Visualization**: Recommended adding
-  real-time performance comparison; Alex added this feature in Week 12
 
 ### Technical Discussions and Problem-Solving
 
