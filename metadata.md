@@ -81,11 +81,15 @@ discussions or helped fellow researchers troubleshoot issues:
 
 **Junior Seminar Deployment And Release Issues**: Reached out to Professor Luman and Professor Kapfhammer regarding issues with deploying a website and releasing a PDF; In collaboration with Professor Luman, we solved the issue that affected the whole research group by having a pull request being sent out.
 
+**Diagram Discussion**: During our diagram session, I suggested ideas on haw to make graphs and diagram more visible (colors,fonts,size); This made the diagrams in my group a lot easier to see.
+
 ### Research Group Meeting Participation
 
 Note particularly meaningful contributions during research group meetings:
 
 **Week 1 / Project Brainstorming**: Discussed with Prof. JJ what I wanted to do the for my junior seminar prototype. Talked about lighting visualization idea but idea was too complicated and involved fields where I might not get much help in.
+
+- **Week 3 / Brainstoring Ideas**: Met with Prof. Kapfhammer to help guide my new idea of Alluder. Talked about how this new tool should use NLM models like spacy. Left with a new footing for my project.
 
 ### Research Resources Shared
 
@@ -93,6 +97,8 @@ Document any research papers, tools, tutorials, or other resources you shared
 with the research group that helped advance collective knowledge:
 
 **"[Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)**: Shared with Hannah on April 23rd; after discussing citations with Professor Kapfhammer, he suggested I share this paper with Hannah as it is relevant to her topic of research.
+
+**"[Spoiler Prevention](https://www.ign.com/wikis/playstation-5/Spoiler_warnings)**: Shared with Brennen in week 3; After hearing about Brennen's idea of a spoiler detection software I reference one that is actively in use on Playstation Network.
 
 ## Additional Project Information
 
