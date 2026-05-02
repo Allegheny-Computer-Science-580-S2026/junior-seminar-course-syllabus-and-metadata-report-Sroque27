@@ -83,6 +83,8 @@ discussions or helped fellow researchers troubleshoot issues:
 - **Your Contribution**: [What you shared, suggested, or helped debug]
 - **Outcome**: [How it helped advance the research]
 
+**Junior Seminar Deployment And Release Issues**: Reached out to Professor Luman and Professor Kapfhammer regarding issues with deploying a website and releasing a PDF; In collaboration with Professor Luman, we solved the issue that affected the whole research group by having a pull request being sent out.
+
 Example entries:
 
 - **Docker Containerization Issues**: Shared my Dockerfile configuration and
@@ -100,6 +102,8 @@ Note particularly meaningful contributions during research group meetings:
 - **Meeting Date / Topic**: [When and what]
 - **Contribution**: [Question asked, insight shared, or resource provided]
 - **Value to Group**: [How it benefited the research community]
+
+
 
 Example entries:
 
@@ -120,6 +124,8 @@ with the research group that helped advance collective knowledge:
 - **Resource**: [Paper title, tool name, tutorial link, etc.]
 - **Shared With**: [Individual researcher or entire group]
 - **Purpose**: [Why you shared it and how it was relevant]
+
+**"[Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)**: Shared with Hannah on April 23rd; after discussing citations with Professor Kapfhammer, he suggested I share this paper with Hannah as it is relevant to her topic of research.
 
 Example entries:
 
