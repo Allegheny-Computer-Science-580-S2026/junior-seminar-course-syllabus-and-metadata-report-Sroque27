@@ -96,7 +96,4 @@ with the research group that helped advance collective knowledge:
 
 ## Additional Project Information
 
-Please use this section to record any other relevant information about your
-Junior Seminar research project, your research process, or any other
-information that your research adviser or the research group coordinator deems
-important for you to document.
+I had to remake my prototype repository because I accidentally commited a venv file to it which made it too large to push. Since one of the requirements is to have multiple commits to our project, I wanted to document the reason why there are so few. This issue has been discussed nd the solution was agreed upon in office hours.
